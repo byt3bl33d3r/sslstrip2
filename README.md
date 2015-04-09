@@ -1,5 +1,7 @@
-SSLStrip+
-=========
+SSLstrip+
+========
+
+This is just a mirror of the original SSLstrip+ code by Leonardo Nve, which had to be taken down because of a gag law
 
 This is a new version of [Moxie´s SSLstrip] (http://www.thoughtcrime.org/software/sslstrip/) with the new feature to avoid HTTP Strict Transport Security (HSTS) protection mechanism.  
   
