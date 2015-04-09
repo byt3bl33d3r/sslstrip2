@@ -1,3 +1,10 @@
+SSLstrip+
+========
+
+This is just a mirror of the original SSLstrip+ code by Leonardo Nve, which had to be taken down because of a gag law
+
+
+
 sslstrip is a MITM tool that implements Moxie Marlinspike's SSL stripping 
 attacks.
 
